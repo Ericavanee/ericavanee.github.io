@@ -67,8 +67,8 @@ Scholarly Works
 
 Honors
 ======
-- Stanford Graduate Fellowship in Sciences and Engineering (2023)
-- [Phi Beta Kappa at Columbia College Delta Chapters](https://www.college.columbia.edu/node/19775) (2023)
+- [Stanford Graduate Fellowship (SGF) in Sciences and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), Stanford University (2023)
+- [Phi Beta Kappa] at Columbia College Delta Chapters(https://www.college.columbia.edu/node/19775), Columbia University (2023)
 - Departmental Honors in Mathematics, Columbia University (2023)
 - Departmental Honors in Statistics, Columbia University (2023)
 - [Nexus Fellowship](https://campus.deshaw.com/), The D. E. Shaw Group (2021)
