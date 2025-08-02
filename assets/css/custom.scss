@@ -1,0 +1,7 @@
+.author__avatar {
+  width: 120px;        // default is around 100px — increase as needed
+  height: 120px;       // match width to keep it circular
+  border-radius: 50%;  // ensures it's a perfect circle
+  object-fit: cover;   // avoids image stretching
+  margin-bottom: 10px;
+}
