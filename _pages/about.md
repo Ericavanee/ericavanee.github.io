@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /
 title: ""
 author_profile: true
