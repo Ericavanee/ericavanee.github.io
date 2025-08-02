@@ -42,7 +42,7 @@
 ;
 
 .author__avatar {
-  width: 160px;          // wider than height → ellipse
+  width: 165px;          // wider than height → ellipse
   height: 200px;         // shorter → vertical ellipse
   border-radius: 50%;    // keeps it oval
   object-fit: cover;     // avoid stretching
@@ -52,6 +52,6 @@
 
 // 👇 About page font size
 .page--about .page__content {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.6;
 }
