@@ -19,17 +19,17 @@ My research lies at the intersection of optimization, statistics, and machine le
 
 Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment traditional statistics-driven learning pipelines with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
 
-I have broad interests across learning, AI, and theoretical statistics & probability. Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I aim to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
+I have broad interests across learning, AI, and theoretical statistics & probability. Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
 
 Feel free to reach out if you're interested in my work!
 
 Publications and Working Papers
 ======
-* *Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes*  
-  **<u>Erica Zhang</u>**<sup>*</sup>, Fangzhao Zhang<sup>*</sup>, Mert Pilanci  
-  *International Conference on Machine Learning (ICML), 2025*  
-  <sup>*</sup>Equal contribution  
-  [PDF](https://example.com/paper.pdf) [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+* <em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
+  <strong><u>Erica Zhang</u></strong><sup>*</sup>, Fangzhao Zhang<sup>*</sup>, Mert Pilanci<br>
+  <em>International Conference on Machine Learning (ICML), 2025</em><br>
+  <sup>*</sup>Equal contribution<br>
+  [PDF](https://example.com/paper.pdf) · [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
 
 
 Site-wide configuration
