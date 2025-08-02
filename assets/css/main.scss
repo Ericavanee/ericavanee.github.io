@@ -42,8 +42,8 @@
 ;
 
 .author__avatar {
-  width: 140px;          // wider than height → ellipse
-  height: 180px;         // shorter → vertical ellipse
+  width: 160px;          // wider than height → ellipse
+  height: 200px;         // shorter → vertical ellipse
   border-radius: 50%;    // keeps it oval
   object-fit: cover;     // avoid stretching
   display: block;
