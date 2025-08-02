@@ -28,36 +28,41 @@ Feel free to reach out if you're interested in my work 🙂
 
 Scholarly Works
 ======
-* <em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
+<em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
   <small>
     <strong><u>Erica Zhang</u></strong><sup>*</sup>, Fangzhao Zhang<sup>*</sup>, Mert Pilanci<br>
     <em>International Conference on Machine Learning (ICML), 2025</em><br>
     [[PDF]](https://arxiv.org/pdf/2410.02145?) · [[arXiv]](https://arxiv.org/abs/2410.02145) · [[Codes]](https://github.com/pilancilab/cpal)
   </small>
-* <em>LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization</em><br>
+
+<em>LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization</em><br>
   <small>
     <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagan<sup>*</sup>, Ryan Goto<sup>*</sup>, Jurik Mutter, Nick Phillips, Ash Alizadeh, Kangwook Lee, Jose Blanchet, Mert Pilanci, Robert Tibshirani<br>
     <em>arXiv Preprint</em><br>
     [[PDF]](https://arxiv.org/pdf/2502.10648) · [[arXiv]](https://arxiv.org/abs/2502.10648) · [[Codes]](https://github.com/pilancilab/llm-lasso)
   </small>
-* <em>HieroLM: Egyptian Hieroglyph Recovery with Next Word Prediction Language Model</em><br>
+
+<em>HieroLM: Egyptian Hieroglyph Recovery with Next Word Prediction Language Model</em><br>
   <small>
     Xuheng Cai, <strong><u>Erica Zhang</u></strong><br>
     <em>LaTeCH-CLfL 2025 @ NAACL 2025</em><br>
     [[PDF]](https://arxiv.org/pdf/2503.04996) · [[arXiv]](https://arxiv.org/abs/2503.04996) · [[Codes]](https://github.com/Rick-Cai/HieroLM)
-* <em>Empirical martingale projections via the adapted Wasserstein distance</em><br>
+
+<em>Empirical martingale projections via the adapted Wasserstein distance</em><br>
   <small>
     Jose Blanchet, Johannes Wiesel, <strong><u>Erica Zhang</u></strong>, Zhenyuan Zhang<br>
     <em>arXiv Preprint</em><br>
     [[PDF]](https://arxiv.org/pdf/2401.12197) · [[arXiv]](https://arxiv.org/abs/2401.12197) · [[Codes]](https://github.com/Ericavanee/Bicausal_Wasserstein_MtglProj)
   </small>
-* <em>An optimal transport-based characterization of convex order</em><br>
+
+<em>An optimal transport-based characterization of convex order</em><br>
   <small>
      Johannes Wiesel, <strong><u>Erica Zhang</u></strong><br>
     <em>Dependence Modeling 11 (1)</em><br>
     [[PDF]](https://arxiv.org/pdf/2207.01235) · [[arXiv]](https://arxiv.org/abs/2207.01235) · [[Codes]](https://github.com/johanneswiesel/Convex-Order)
   </small>
-* <em>Convex Order and Arbitrage</em><br>
+
+<em>Convex Order and Arbitrage</em><br>
   <small>
      <strong><u>Erica Zhang</u></strong><br>
     <em>arXiv Preprint</em><br>
