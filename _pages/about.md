@@ -15,10 +15,13 @@ This summer, I’m excited to be interning as an Applied Scientist working on Ge
 
 Research
 ======
-My research lies at the intersection of optimization, statistics, and machine learning. As a theorist and statistician, I am particularly interested in studying and repurposing classical techniques from probability and optimization theory to address modern learning challenges, with a focus on improving sample efficiency in large-scale, high-dimensional settings. 
-Recently, my interests focus on the principled integration of large language models (LLMs) into traditional learning pipelines, enabling the augmentation of rich contextual metadata while ensuring tunability and robustness. 
+My research lies at the intersection of optimization, statistics, and machine learning. As a theorist and statistician, I am particularly interested in revisiting and repurposing classical techniques from probability and optimization theory to tackle modern learning challenges, with a focus on improving sample efficiency in large-scale, high-dimensional settings.
 
-I have broad interests in learning, AI, and theoretical statistics & probablity. Feel free to reach out if you are interested in my research!
+Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment traditional statistics-driven learning pipelines with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
+
+I have broad interests across learning, AI, and theoretical statistics & probability. Philosophically, I’m inspired by mathematician [Hans Hahn](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician))’s view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I aim to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
+
+Feel free to reach out if you're interested in my work!
 
 Publications and Working Papers
 ======
