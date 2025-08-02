@@ -15,7 +15,7 @@ This summer, I’m excited to be interning as an Applied Scientist working on Ge
 
 Research
 ======
-My research lies at the intersection of optimization, statistics, and machine learning. I am particularly interested in studying and repurposing classical techniques from probability and optimization theory to address modern learning challenges, with a focus on improving sample efficiency in large-scale, high-dimensional settings. 
+My research lies at the intersection of optimization, statistics, and machine learning. As a theorist and statician, I am particularly interested in studying and repurposing classical techniques from probability and optimization theory to address modern learning challenges, with a focus on improving sample efficiency in large-scale, high-dimensional settings. 
 Recently, my interests focus on the principled integration of large language models (LLMs) into traditional learning pipelines, enabling the augmentation of rich contextual metadata while ensuring tunability and robustness. 
 
 I have broad interests in learning, AI, and theoretical statistics & probablity. Feel free to reach out if you are interested in my research!
