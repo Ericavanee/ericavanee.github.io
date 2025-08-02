@@ -42,12 +42,12 @@
 ;
 
 .author__avatar {
-  width: 140px;          // wider than height → ellipse
+  width: 150px;          // wider than height → ellipse
   height: 180px;         // shorter → vertical ellipse
   border-radius: 50%;    // keeps it oval
   object-fit: cover;     // avoid stretching
   display: block;
-  margin: 0 auto 10px;   // center the image
+  margin: 0 0 10px 0;      // remove auto-centering
 }
 
 // 👇 About page font size
