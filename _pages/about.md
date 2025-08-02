@@ -25,14 +25,11 @@ Feel free to reach out if you're interested in my work!
 
 Publications and Working Papers
 ======
-- ### *Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes*
-<h4>  
-<strong>Erica Zhang</strong><sup>*</sup>, 
-Fangzhao Zhang<sup>*</sup>, 
-Mert Pilanci
-</h4>  
-*International Conference on Machine Learning (ICML), 2025*  
-[[PDF](https://example.com/paper.pdf)] [[arXiv](https://arxiv.org/abs/XXXX.XXXXX)]
+* *Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes*  
+  **<u>Erica Zhang</u>**<sup>*</sup>, Fangzhao Zhang<sup>*</sup>, Mert Pilanci  
+  *International Conference on Machine Learning (ICML), 2025*  
+  <sup>*</sup>Equal contribution  
+  [PDF](https://example.com/paper.pdf) [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
 
 
 Site-wide configuration
