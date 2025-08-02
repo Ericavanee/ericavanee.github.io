@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a Ph.D. student in Operations Research within the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/). I am fortunate to be co-advised by Prof. [Jose Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). I am also grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Science and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), generously sponsored by the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/).
+Hello! I’m a Ph.D. candidate in Operations Research within the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/). I am fortunate to be co-advised by Prof. [Jose Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). I am also grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Science and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), generously sponsored by the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/).
 
 As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrical Engineering (2025), specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
@@ -19,18 +19,17 @@ My research lies at the intersection of optimization, statistics, and machine le
 
 Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment traditional statistics-driven learning pipelines with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
 
-I have broad interests across learning, AI, and theoretical statistics & probability. Philosophically, I’m inspired by mathematician [Hans Hahn](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician))’s view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I aim to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
+I have broad interests across learning, AI, and theoretical statistics & probability. Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I aim to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
 
 Feel free to reach out if you're interested in my work!
 
 Publications and Working Papers
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- ### Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes  
+**Erica Zhang**, *Fangzhao Zhang*, Mert Pilanci  
+*International Conference on Machine Learning (ICML), 2025*  
+[[PDF](https://example.com/paper.pdf)] [[arXiv](https://arxiv.org/abs/XXXX.XXXXX)]
+
 
 Site-wide configuration
 ------
