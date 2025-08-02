@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Erica Zhang",
+    "email": "yz4232@stanford.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://erzh.github.io",
+    "summary": "PhD candidate @stanfordeng",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Palo Alto",
       "countryCode": "US",
-      "region": ""
+      "region": "California"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=GCxMlW0AAAAJ&hl=en"
       },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
+      // {
+      //   "network": "ORCID",
+      //   "username": "",
+      //   "url": "http://orcid.org/yourorcidurl"
+      // },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ericavanee",
+        "url": "https://github.com/Ericavanee"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "Stanford University",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
