@@ -23,7 +23,7 @@ I have broad interests across learning, AI, and theoretical statistics & probabi
 
 Feel free to reach out if you're interested in my work!
 
-Publications and Working Papers
+Scholarly Works
 ======
 * <em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
   <small>
