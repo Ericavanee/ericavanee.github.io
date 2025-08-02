@@ -40,3 +40,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.author__avatar {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+// 👇 About page font size
+.page--about .page__content {
+  font-size: 14px;
+  line-height: 1.6;
+}
