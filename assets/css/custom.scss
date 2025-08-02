@@ -5,3 +5,8 @@
   object-fit: cover;   // avoids image stretching
   margin-bottom: 10px;
 }
+
+.page--about .page__content {
+  font-size: 14px;     // or 13px or 12px if you want smaller
+  line-height: 1.6;
+}
