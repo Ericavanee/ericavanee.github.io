@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello :)! I am Erica, currently a Ph.D. candidate in Operations Research within the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/). I am fortunate to be co-advised by Prof. [Jose Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). I am also grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Science and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), generously sponsored by the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/).
+Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research within the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/). I am fortunate to be co-advised by Prof. [Jose Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). I am also grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Science and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), generously sponsored by the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/).
 
 As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrical Engineering (2025), specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
