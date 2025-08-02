@@ -11,7 +11,7 @@ Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research within 
 
 As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrical Engineering (2025), specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
-This summer, I’m excited to be interning as an Applied Scientist working on Generative AI with [Amazon Science](https://www.amazon.science/) in the Bellevue office.
+This summer, I’m excited to be interning as an Applied Scientist working on Generative AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office.
 
 Research
 ======
