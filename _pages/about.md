@@ -58,9 +58,11 @@ Scholarly Works
     [[PDF]](https://arxiv.org/pdf/2207.01235) · [[arXiv]](https://arxiv.org/abs/2207.01235) · [[Codes]](https://github.com/johanneswiesel/Convex-Order)
   </small>
 * <em>Convex Order and Arbitrage</em><br>
+    <small>
      <strong><u>Erica Zhang</u></strong><br>
     <em>arXiv Preprint</em><br>
     [[PDF]](https://github.com/Ericavanee/Convex-Order-and-Arbitrage/blob/main/Convex_Order_and_Arbitrage%2C%20v1.pdf) · [[arXiv]](https://example.com/placeholder)
+    </small>
 
 
 Honors
