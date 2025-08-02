@@ -22,9 +22,9 @@ My research lies at the intersection of optimization, statistics, and machine le
 
 Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment traditional statistics-driven learning pipelines with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
 
-I have broad interests across learning, AI, and theoretical statistics & probability. Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
+Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
 
-Feel free to reach out if you're interested in my work!
+Feel free to reach out if you're interested in my work 😊
 
 Scholarly Works
 ======
@@ -56,6 +56,12 @@ Scholarly Works
      Johannes Wiesel, <strong><u>Erica Zhang</u></strong><br>
     <em>Dependence Modeling 11 (1)</em><br>
     [[PDF]](https://arxiv.org/pdf/2207.01235) · [[arXiv]](https://arxiv.org/abs/2207.01235) · [[Codes]](https://github.com/johanneswiesel/Convex-Order)
+  </small>
+* <em>Convex Order and Arbitrage</em><br>
+  <small>
+     <strong><u>Erica Zhang</u></strong><br>
+    <em>arXiv Preprint</em><br>
+    [[PDF]](https://github.com/Ericavanee/Convex-Order-and-Arbitrage/blob/main/Convex_Order_and_Arbitrage%2C%20v1.pdf) · [[arXiv]](https://example.com/placeholder)
   </small>
 
 
