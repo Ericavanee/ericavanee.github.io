@@ -17,7 +17,7 @@ Research
 ======
 My research lies at the intersection of optimization, statistics, and machine learning. As a theorist and statistician, I am particularly interested in revisiting and repurposing classical techniques from probability and optimization theory to tackle modern learning challenges, with a focus on improving sample efficiency in large-scale, high-dimensional settings.
 
-Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment traditional statistics-driven learning pipelines with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
+Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment statistics-driven models with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
 
 Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
 
