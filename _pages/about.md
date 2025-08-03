@@ -19,7 +19,7 @@ My research lies at the intersection of optimization, statistics, and machine le
 
 Recently, my work has focused on the principled integration of large language models (LLMs) into traditional learning pipelines, leveraging their capacity to augment statistics-driven models with rich contextual metadata, while preserving tunability, robustness, and statistical rigor.
 
-Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world. As I continue journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
+Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world <a href="#ref1">[1]</a>. As I continue journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
 
 Feel free to reach out if you're interested in my work 🙂
 
@@ -69,3 +69,13 @@ Honors
 - Departmental Honors in Mathematics, Columbia University (2023)
 - Departmental Honors in Statistics, Columbia University (2023)
 - [Nexus Fellowship](https://campus.deshaw.com/), The D. E. Shaw Group (2021)
+
+
+## References
+
+<div style="background-color: #f6f6f6; padding: 1em; font-size: 0.95em; line-height: 1.6;">
+
+<a id="ref1">[1]</a> Hahn, Hans (1933). <em>Logic, Mathematics and Knowledge of Nature (Logik, Mathematik und Naturerkenntnis)</em>. In B. McGuinness (Ed.), <em>Unified Science: The Vienna Circle Monograph Series</em> (pp. 24–45). Dordrecht: Springer.  
+<a href="https://link.springer.com/chapter/10.1007/978-94-009-3865-6_2" target="_blank">Springer Link</a>.
+
+</div>
