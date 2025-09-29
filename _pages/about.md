@@ -13,6 +13,8 @@ As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrica
 
 *This summer, I’m excited to be interning as an Applied Scientist working on Generative AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office.*
 
+*Happy to share that our paper, "Empirical martingale projections via the adapted Wasserstein distance," is accepted at Annals of Applied Probability!*
+
 Research
 ======
 My research lies at the intersection of optimization, statistics, and machine learning. As a theorist and statistician, I am particularly interested in revisiting and repurposing classical techniques from probability and optimization theory to tackle modern learning challenges, with a focus on improving sample efficiency in large-scale, high-dimensional settings.
@@ -45,7 +47,7 @@ Scholarly Works
 * <em>Empirical martingale projections via the adapted Wasserstein distance</em><br>
   <small>
     Jose Blanchet, Johannes Wiesel, <strong><u>Erica Zhang</u></strong>, Zhenyuan Zhang<br>
-    <em>arXiv Preprint</em><br>
+    <em>Annals of Applied Probability, AAP2239</em><br>
     [[PDF]](https://arxiv.org/pdf/2401.12197) · [[arXiv]](https://arxiv.org/abs/2401.12197) · [[Codes]](https://github.com/Ericavanee/Bicausal_Wasserstein_MtglProj)
   </small>
 * <em>An optimal transport-based characterization of convex order</em><br>
