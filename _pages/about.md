@@ -39,17 +39,17 @@ Scholarly Works
     <em>arXiv Preprint</em><br>
     [[PDF]](https://arxiv.org/pdf/2502.10648) · [[arXiv]](https://arxiv.org/abs/2502.10648) · [[Codes]](https://github.com/pilancilab/llm-lasso)
   </small>
+* <em>Empirical martingale projections via the adapted Wasserstein distance</em><br>
+  <small>
+    Jose Blanchet, Johannes Wiesel, <strong><u>Erica Zhang</u></strong>, Zhenyuan Zhang<br>
+    <em>Annals of Applied Probability, AAP2239, 2025</em><br>
+    [[PDF]](https://arxiv.org/pdf/2401.12197) · [[arXiv]](https://arxiv.org/abs/2401.12197) · [[Codes]](https://github.com/Ericavanee/Bicausal_Wasserstein_MtglProj)
+  </small>
 * <em>HieroLM: Egyptian Hieroglyph Recovery with Next Word Prediction Language Model</em><br>
   <small>
     Xuheng Cai, <strong><u>Erica Zhang</u></strong><br>
     <em>LaTeCH-CLfL 2025 @ NAACL 2025</em><br>
     [[PDF]](https://arxiv.org/pdf/2503.04996) · [[arXiv]](https://arxiv.org/abs/2503.04996) · [[Codes]](https://github.com/Rick-Cai/HieroLM)
-* <em>Empirical martingale projections via the adapted Wasserstein distance</em><br>
-  <small>
-    Jose Blanchet, Johannes Wiesel, <strong><u>Erica Zhang</u></strong>, Zhenyuan Zhang<br>
-    <em>Annals of Applied Probability, AAP2239</em><br>
-    [[PDF]](https://arxiv.org/pdf/2401.12197) · [[arXiv]](https://arxiv.org/abs/2401.12197) · [[Codes]](https://github.com/Ericavanee/Bicausal_Wasserstein_MtglProj)
-  </small>
 * <em>An optimal transport-based characterization of convex order</em><br>
   <small>
      Johannes Wiesel, <strong><u>Erica Zhang</u></strong><br>
