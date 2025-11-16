@@ -72,6 +72,10 @@ Honors
 - Departmental Honors in Statistics, Columbia University (2023)
 - [Nexus Fellowship](https://campus.deshaw.com/), The D. E. Shaw Group (2021)
 
+Reviewing & Professional Service
+======
+- Referee, *Management Science*, 2025
+
 
 ## References
 
