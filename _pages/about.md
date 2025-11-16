@@ -63,6 +63,9 @@ Scholarly Works
     [[PDF]](https://arxiv.org/pdf/2510.01599) · [[arXiv]](https://arxiv.org/abs/2510.01599)
     </small>
 
+Editorial and Review Activities
+======
+- Referee, *Management Science*, 2025.
 
 Honors
 ======
@@ -71,10 +74,6 @@ Honors
 - Departmental Honors in Mathematics, Columbia University (2023)
 - Departmental Honors in Statistics, Columbia University (2023)
 - [Nexus Fellowship](https://campus.deshaw.com/), The D. E. Shaw Group (2021)
-
-Reviewing & Professional Service
-======
-- Referee, *Management Science*, 2025
 
 
 ## References
