@@ -63,7 +63,7 @@ Scholarly Works
     [[PDF]](https://arxiv.org/pdf/2510.01599) · [[arXiv]](https://arxiv.org/abs/2510.01599)
     </small>
 
-Editorial and Review Activities
+Academic Service
 ======
 - Referee, *Management Science*, 2025.
 
