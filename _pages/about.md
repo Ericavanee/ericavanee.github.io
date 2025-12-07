@@ -10,10 +10,8 @@ About
 Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research within the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/). I am fortunate to be co-advised by Prof. [Jose H. Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). I am also grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Sciences and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), generously sponsored by the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/).
 
 As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrical Engineering (2025), specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
+This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office.
 
-*This summer, I’m excited to be interning as an Applied Scientist working on Generative AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office.*
-
-*Happy to share that our paper, "Empirical martingale projections via the adapted Wasserstein distance," is accepted at Annals of Applied Probability!*
 
 Research
 ======
@@ -69,6 +67,7 @@ Academic Service
 
 Honors
 ======
+- Stanford-Nominated [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) Finalist in AI/ML (2025).
 - [Stanford Graduate Fellowship (SGF) in Sciences and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), Stanford University (2023)
 - [Phi Beta Kappa](https://www.college.columbia.edu/node/19775) at Columbia College Delta Chapters, Columbia University (2023)
 - Departmental Honors in Mathematics, Columbia University (2023)
