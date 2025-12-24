@@ -11,7 +11,7 @@ Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research within 
 
 As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrical Engineering (2025), specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
-This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. *I am excited to share that I will be joining [Two Sigma](https://www.twosigma.com/) next summer (2026) as a Quantitative Research Intern in AI and ML at the New York headquarters.*
+This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. *I am excited to share that I will be joining [Two Sigma](https://www.twosigma.com/) next summer as a Quantitative Research Intern in AI and ML at the New York headquarters.*
 
 
 Research
