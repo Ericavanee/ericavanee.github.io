@@ -13,7 +13,7 @@ As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrica
 
 This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. *I am excited to share that I will be joining [Two Sigma](https://www.twosigma.com/) next summer as a Quantitative Research Intern in AI and ML at the New York headquarters.*
 
-**Check out our latest work ([paper link](https://arxiv.org/abs/2601.21410))! Statsformer bridges LLM guidance with statistical rigor, delivering provable safety guarantees that mitigate the impact of LLM hallucinations on model performance while consistently outperforming strong AutoML baselines (e.g., AutoGluon, LLM-Agent–style systems).**
+**Check out our latest work ([paper link](https://arxiv.org/abs/2601.21410))! Statsformer bridges LLM guidance with statistical rigor, delivering provable safety guarantees that mitigate performance degradation from LLM hallucinations while consistently outperforming strong AutoML baselines (e.g., AutoGluon, LLM-Agent–style systems).**
 
 
 Research
