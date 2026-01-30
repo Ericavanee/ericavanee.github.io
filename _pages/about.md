@@ -13,6 +13,8 @@ As part of my Ph.D., I recently completed a co-enrolled M.S. degree in Electrica
 
 This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. *I am excited to share that I will be joining [Two Sigma](https://www.twosigma.com/) next summer as a Quantitative Research Intern in AI and ML at the New York headquarters.*
 
+**Check out our latest work ([paper link](https://arxiv.org/abs/2601.21410))! Statsformer bridges LLM guidance with statistical rigor, delivering provable safety guarantees that mitigate the impact of LLM hallucinations on model performance while consistently outperforming strong AutoML baselines (e.g., AutoGluon, LLM-Agent–style systems).**
+
 
 Research
 ======
@@ -41,7 +43,7 @@ Scholarly Works
 * <em>LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization</em><br>
   <small>
     <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagan<sup>*</sup>, Ryan Goto<sup>*</sup>, Jurik Mutter, Nick Phillips, Ash Alizadeh, Kangwook Lee, Jose Blanchet, Mert Pilanci, Robert Tibshirani<br>
-    <em>arXiv Preprint</em><br>
+    <em>arXiv Preprint (2025)</em><br>
     [[PDF]](https://arxiv.org/pdf/2502.10648) · [[arXiv]](https://arxiv.org/abs/2502.10648) · [[Codes]](https://github.com/pilancilab/llm-lasso)
   </small>
 * <em>Empirical martingale projections via the adapted Wasserstein distance</em><br>
