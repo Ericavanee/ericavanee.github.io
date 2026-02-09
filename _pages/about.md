@@ -36,7 +36,7 @@ Scholarly Works
   <small>
     <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagan<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
     <em>arXiv Preprint (2026)</em><br>
-    [[PDF]](https://arxiv.org/pdf/2601.21410) · [[arXiv]](https://arxiv.org/abs/2601.21410) · [[Codes]](https://github.com/pilancilab)
+    [[PDF]](https://arxiv.org/pdf/2601.21410) · [[arXiv]](https://arxiv.org/abs/2601.21410) · [[Codes]](https://github.com/pilancilab/statsformer)
   </small>
 * <em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
   <small>
