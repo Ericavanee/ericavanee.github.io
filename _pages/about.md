@@ -34,7 +34,7 @@ Selected Industry Projects
 ======
 * <em>Negotiation Agent for the Amazon Marketplace</em><br>
   <small><em>Amazon Science, Bellevue · 2025</em></small><br>
-  <div style="border: 1px solid #e8e8e8; background: #fafafa; padding: 0.6em 0.85em; border-radius: 6px; margin: 0.35em 0 0.35em 0;">
+  <div style="margin: 0.35em 0 0.35em 0;">
     <small>
       Agentic AI system for strategic price negotiation in a real-world marketplace environment under business constraints.
     </small>
