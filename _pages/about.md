@@ -30,6 +30,31 @@ Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipe
 
 Feel free to reach out if you're interested in my work 🙂
 
+Selected Industry Projects
+======
+
+<div class="project-card">
+  <h3>Negotiation Agent for the Amazon Marketplace</h3>
+  <p><em>Agentic AI system for strategic price negotiation in a real-world marketplace setting.</em></p>
+
+  <p>
+    Built during my Applied Scientist internship at Amazon Science (Bellevue, 2025), this project explored LLM-guided negotiation systems for marketplace interactions under practical business constraints. I led the research and system development, with the work advancing to patent-pending status.
+  </p>
+
+  <p>
+    <small>
+      <strong>Role:</strong> Applied Scientist Intern ·
+      <strong>Focus:</strong> Agentic AI, negotiation, decision-making under uncertainty ·
+      <strong>Status:</strong> Patent pending
+    </small>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D">Post</a>
+  </p>
+</div>
+
+
 Scholarly Works
 ======
 * <em>Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors</em><br>
