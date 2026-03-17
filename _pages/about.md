@@ -39,7 +39,7 @@ Selected Industry Projects
     Agentic AI system for strategic price negotiation in a real-world marketplace setting, developed under practical business constraints during my internship at Amazon Science. The work advanced to patent-pending status and pilot-testing stage.
   </small><br>
   <small>
-    <strong>Role:</strong> Research and system development lead·
+    <strong>Role:</strong> Research and system development lead
     [[Post]](https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D)
   </small>
 
