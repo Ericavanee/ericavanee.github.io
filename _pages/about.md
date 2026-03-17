@@ -34,13 +34,12 @@ Selected Industry Projects
 ======
 
 * <em>Negotiation Agent for the Amazon Marketplace</em><br>
-  <small><em>Amazon Science, Bellevue · Applied Scientist Internship · 2025</em></small><br>
+  <small><em>Patent pending · Amazon Science, Bellevue · Applied Scientist Internship · 2025</em></small><br>
   <small>
-    Agentic AI system for strategic price negotiation in a real-world marketplace setting, developed under practical business constraints during my internship at Amazon Science. The work advanced to patent-pending status.
+    Agentic AI system for strategic price negotiation in a real-world marketplace setting, developed under practical business constraints during my internship at Amazon Science. The work advanced to patent-pending status and pilot-testing stage.
   </small><br>
   <small>
     <strong>Role:</strong> Research and system development lead·
-    <strong>Focus:</strong> Agentic AI, negotiation, decision-making under uncertainty<br>
     [[Post]](https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D)
   </small>
 
