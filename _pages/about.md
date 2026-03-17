@@ -33,26 +33,16 @@ Feel free to reach out if you're interested in my work 🙂
 Selected Industry Projects
 ======
 
-<div class="project-card">
-  <h3>Negotiation Agent for the Amazon Marketplace</h3>
-  <p><em>Agentic AI system for strategic price negotiation in a real-world marketplace setting.</em></p>
-
-  <p>
-    Built during my Applied Scientist internship at Amazon Science (Bellevue, 2025), this project explored LLM-guided negotiation systems for marketplace interactions under practical business constraints. I led the research and system development, with the work advancing to patent-pending status.
-  </p>
-
-  <p>
-    <small>
-      <strong>Role:</strong> Applied Scientist Intern ·
-      <strong>Focus:</strong> Agentic AI, negotiation, decision-making under uncertainty ·
-      <strong>Status:</strong> Patent pending
-    </small>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D">Post</a>
-  </p>
-</div>
+* <em>Negotiation Agent for the Amazon Marketplace</em><br>
+  <small><em>Amazon Science, Bellevue · Applied Scientist Internship · 2025</em></small><br>
+  <small>
+    Agentic AI system for strategic price negotiation in a real-world marketplace setting, developed under practical business constraints during my internship at Amazon Science. The work advanced to patent-pending status.
+  </small><br>
+  <small>
+    <strong>Role:</strong> Research and system development lead·
+    <strong>Focus:</strong> Agentic AI, negotiation, decision-making under uncertainty<br>
+    [[Post]](https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D)
+  </small>
 
 
 Scholarly Works
