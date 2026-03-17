@@ -24,7 +24,7 @@ Research
 ======
 Beginning as a theorist and statistician, I draw on classical tools from optimization and probability to tackle modern challenges in machine learning, particularly in large-scale, high-dimensional settings where sample complexity and statistical rigor matter most.
 
-Currently, my research bridges foundation models with statistical rigor and safety. I develop LLM-integrated learning and decision-making systems with formal guarantees that mitigate failure modes such as hallucination. My goal is to move beyond heuristic LLM augmentation toward systems that are robust, interpretable, and provably safe.
+Currently, my research bridges foundation models and agentic systems with statistical rigor and safety. I develop LLM-integrated learning and decision-making agentic systems with formal guarantees that mitigate failure modes such as hallucination. My goal is to move beyond heuristic LLM augmentation toward systems that are robust, interpretable, and provably safe.
 
 Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world <a href="#ref1">[1]</a>. As I continue my journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
 
