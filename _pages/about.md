@@ -16,8 +16,9 @@ This past summer (2025), I interned as an Applied Scientist working on Agentic A
 
 News
 ======
+I’m honored to be co-organizing and chairing, with [Lukas Fiechtner](https://www.linkedin.com/in/lukas-benedikt-f-959463157/), a session under the *Optimization under Uncertainty* cluster at the 2026 INFORMS Annual Meeting in San Francisco, November 1–4, 2026.
 
-I’m honored to share that I received the [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) in the AI/ML track (2026), supporting my research on reliable modern learning and agentic AI systems.
+I’m excited to share that I received the [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) in the AI/ML track (2026), supporting my research on reliable modern learning and agentic AI systems.
 
 Check out our latest work: [Statsformer](https://arxiv.org/abs/2601.21410)! *Statsformer* bridges LLM guidance with statistical rigor, delivering provable safety guarantees that mitigate performance degradation from LLM hallucinations while consistently outperforming strong AutoML baselines (e.g., AutoGluon, LLM-Agent–style systems).
 
