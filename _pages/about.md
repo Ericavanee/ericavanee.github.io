@@ -16,7 +16,7 @@ This past summer (2025), I interned as an Applied Scientist working on Agentic A
 
 News
 ======
-I’m honored to be co-organizing and chairing, with [Lukas Fiechtner](https://www.linkedin.com/in/lukas-benedikt-f-959463157/), a session under the *Optimization under Uncertainty* cluster at the 2026 INFORMS Annual Meeting in San Francisco, November 1–4, 2026.
+I’m honored to be co-organizing and chairing, with [Lukas Fiechtner](https://www.linkedin.com/in/lukas-benedikt-f-959463157/), a session under the *Optimization under Uncertainty* cluster at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in San Francisco, November 1–4, 2026.
 
 Excited to share that I received the [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) in the AI/ML track (2026), supporting my research on reliable modern learning and agentic AI systems.
 
