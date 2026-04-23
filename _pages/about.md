@@ -98,6 +98,7 @@ Scholarly Works
 Academic Service
 ======
 - Referee, *Management Science*, 2025.
+- Referee, *NeurIPS*, 2026.
 
 Honors
 ======
