@@ -61,7 +61,7 @@ Open-Source Projects
   </div>
 
   <small>
-  [Leaderboard]](https://terms-bench.github.io/) · [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf)
+  [Leaderboard](https://terms-bench.github.io/) · [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf)  · [[Codes - Coming soon]](https://github.com/zou-group)
   <small>
 
 * <em>OpenThoughts-Agent: Data Receipe for Agents</em><br>
