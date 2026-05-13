@@ -50,7 +50,7 @@ Selected Industry Projects
     [[Post]](https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D)
   </small>
 
-Benchmarks & Open-Source Projects
+Open-Source Projects
 ======
 * <em>TERMS-Bench: A Diagnostic Benchmark for LLM Negotiation Agents</em><br>
   <small><em>Open-source · Evaluation benchmark · Stanford Engineering · 2026</em></small><br>
@@ -61,7 +61,7 @@ Benchmarks & Open-Source Projects
   </div>
 
   <small>
-  [[Website & Leaderboard]](https://terms-bench.github.io/) · [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf)
+  [Leaderboard]](https://terms-bench.github.io/) · [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf)
   <small>
 
 * <em>OpenThoughts-Agent: Data Receipe for Agents</em><br>
@@ -73,7 +73,7 @@ Benchmarks & Open-Source Projects
   </div>
 
   <small>
-  [[Website & Leaderboard]](https://www.openthoughts.ai/blog/agent) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
+  [[Leaderboard]](https://www.openthoughts.ai/blog/agent) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
   <small>
 
 
