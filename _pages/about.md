@@ -50,12 +50,34 @@ Selected Industry Projects
     [[Post]](https://www.linkedin.com/feed/update/urn:li:activity:7378035836669546496/?originTrackingId=39kWtBmzN9ubJE7mzv327w%3D%3D)
   </small>
 
+Benchmarks & Open-Source Projects
+======
+* <em>TERMS-Bench: A Diagnostic Benchmark for LLM Negotiation Agents</em><br>
+  <small><em>Open-source · Evaluation benchmark · Stanford Engineering · 2026</em></small><br>
+  <div style="margin: 0.35em 0 0.35em 0;">
+    <small>
+      Creator; development and engineering lead.
+    </small>
+  </div>
+
+  [[Website & Leaderboard]](https://terms-bench.github.io/) · [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf)
+
+* <em>OpenThoughts-Agent: Data Receipe for Agents</em><br>
+  <small><em>Open-source · Benchmark · Stanford, [Daytona](https://www.daytona.io/), [Oumi](https://oumi.ai/), [Bespoke Labs](https://www.bespokelabs.ai/), and [Laude Institute](https://www.laude.org/) · 2026</em></small><br>
+  <div style="margin: 0.35em 0 0.35em 0;">
+    <small>
+      Contributor; data creation and curation.
+    </small>
+  </div>
+
+  [[Website & Leaderboard]](https://www.openthoughts.ai/blog/agent) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
+
 
 Scholarly Works
 ======
 * <em>Optimizer-Induced Mode Connectivity: From AdamW to Muon</em><br>
   <small>
-    Fangzhao Zhang<sup>*</sup>, Sungyoon Kim<sup>*</sup>,<strong><u>Erica Zhang</u></strong>, Yiqi Jiang, Mert Pilanci<br>
+    Fangzhao Zhang<sup>*</sup>, Sungyoon Kim<sup>*</sup>, <strong><u>Erica Zhang</u></strong>, Yiqi Jiang, Mert Pilanci<br>
     <em>arXiv Preprint (2026)</em><br>
     [[PDF]](https://arxiv.org/pdf/2605.09991) · [[arXiv]](https://arxiv.org/abs/2605.09991) · [[Codes]](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
   </small>
@@ -107,7 +129,7 @@ Invited Talks
   <small>Jump AI Symposium, Jump Trading, New York City · May 28, 2026</small>
 
 * <em>TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate</em><br>
-  <small>Open Model Benchmarks, Google DeepMind, San Francisco · May 6, 2026</small>
+  <small>Open Model Benchmarks, Google DeepMind, San Francisco · May 6, 2026 · [[Slides]](/files/TERMS-Bench_DeepMind.pptx)</small>
   
 
 Academic Service
