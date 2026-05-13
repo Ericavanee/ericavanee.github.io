@@ -133,7 +133,7 @@ Invited Talks
   <small>Jump AI Symposium, Jump Trading, New York City · May 28, 2026</small>
 
 * <em>TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate</em><br>
-  <small>Open Model Benchmarks, Google DeepMind, San Francisco · May 6, 2026 · [[Slides]](/files/TERMS-Bench_DeepMind.pptx)</small>
+  <small>Open Model Benchmarks, Google DeepMind, San Francisco · May 6, 2026 · [[Slides]](/files/TERMS-Bench_DeepMind.pdf)</small>
   
 
 Academic Service
