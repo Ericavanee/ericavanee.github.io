@@ -7,7 +7,7 @@ author_profile: true
 About
 ======
 
-Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research in the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/), co-advised by Prof. [Jose H. Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). My work has been shaped by close collaborations with Prof. [James Zou](https://www.james-zou.com/), Prof. [Ludwig Schmidt](https://people.csail.mit.edu/ludwigs/), and Prof [Robert Tibshirani](https://tibshirani.su.domains/). I am grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Sciences and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf) via the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/) and a PhD Fellowship from [Jump Trading](https://www.jumptrading.com/) in the AI/ML track. At Stanford, I am affiliated with [Stanford Center for AI Safety](https://aisafety.stanford.edu/) and [Advanced Financial Technologies Laboratory (AFTLab)](https://fintech.stanford.edu/).
+Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research in the Department of Management Science & Engineering (MS&E) at [Stanford University](https://www.stanford.edu/), co-advised by Prof. [Jose H. Blanchet](https://web.stanford.edu/~jblanche/) (MS&E) and Prof. [Mert Pilanci](https://stanford.edu/~pilanci/) (Electrical Engineering). My work has been shaped by close collaborations with Prof. [James Zou](https://www.james-zou.com/), Prof. [Ludwig Schmidt](https://people.csail.mit.edu/ludwigs/), and Prof. [Robert Tibshirani](https://tibshirani.su.domains/). I am grateful to be supported by the [Stanford Graduate Fellowship (SGF) in Sciences and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf) via the [Koret Foundation](https://koret.org/grantees/cross-disciplinary-research-stanford-university/) and a PhD Fellowship from [Jump Trading](https://www.jumptrading.com/) in the AI/ML track. At Stanford, I am affiliated with [Stanford Center for AI Safety](https://aisafety.stanford.edu/) and [Advanced Financial Technologies Laboratory (AFTLab)](https://fintech.stanford.edu/).
 
 As part of my Ph.D., I completed a co-enrolled M.S. degree in Electrical Engineering, specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
@@ -79,6 +79,12 @@ Open-Source Projects
 
 Scholarly Works
 ======
+* <em>TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate</em><br>
+  <small>
+    <strong><u>Erica Zhang</u></strong>, Fangzhao Zhang, Aneesh Pappu, Batu El, Jose Blanchet, Suan Athey, Jiashuo Liu, James Zou<br>
+    <em>arXiv Preprint (2026)</em><br>
+    [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf) · [[arXiv - Coming soon]](https://arxiv.org/) · [[Codes - Coming soon]](https://github.com/zou-group) · [[Leaderboard]](https://terms-bench.github.io/)
+  </small>
 * <em>Optimizer-Induced Mode Connectivity: From AdamW to Muon</em><br>
   <small>
     Fangzhao Zhang<sup>*</sup>, Sungyoon Kim<sup>*</sup>, <strong><u>Erica Zhang</u></strong>, Yiqi Jiang, Mert Pilanci<br>
