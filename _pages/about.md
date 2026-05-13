@@ -93,7 +93,7 @@ Scholarly Works
   </small>
 * <em>OpenThoughts-Agent: Data Recipes for Agentic Models</em><br>
   <small>
-    Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Kumar Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, ..., <strong><u>Erica Zhang</u></strong>, Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt <br>
+    Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Kumar Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, ..., <strong><u>Erica Zhang</u></strong>, ... Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt <br>
     <em>arXiv Preprint (2026)</em><br>
     [[PDF - Coming soon]]() · [[arXiv - Coming soon]](https://arxiv.org/) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
   </small>
