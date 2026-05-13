@@ -53,7 +53,13 @@ Selected Industry Projects
 
 Scholarly Works
 ======
-* <em>Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors</em><br>
+* <em>Optimizer-Induced Mode Connectivity: From AdamW to Muon</em><br>
+  <small>
+    Fangzhao Zhang<sup>*</sup>, Sungyoon Kim<sup>*</sup>,<strong><u>Erica Zhang</u></strong>, Yiqi Jiang, Mert Pilanci<br>
+    <em>arXiv Preprint (2026)</em><br>
+    [[PDF]](https://arxiv.org/pdf/2605.09991) · [[arXiv]](https://arxiv.org/abs/2605.09991) · [[Codes]](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
+  </small>
+* <em>Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration</em><br>
   <small>
     <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagan<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
     <em>arXiv Preprint (2026)</em><br>
