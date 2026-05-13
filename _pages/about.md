@@ -142,10 +142,10 @@ Scholarly Works
 Invited Talks
 ======
 * <em>Learning When to Trust LLM Priors: Reliable Prediction with Statistical Guarantees</em><br>
-  <small>Jump AI Symposium, Jump Trading, New York City · May 28, 2026</small>
+  <small>Jump AI Symposium, [Jump Trading](https://www.jumptrading.com/), New York City · May 28, 2026</small>
 
 * <em>TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate</em><br>
-  <small>Open Model Benchmarks, Google DeepMind, San Francisco · May 6, 2026 · [[Slides]](/files/TERMS-Bench_DeepMind.pdf)</small>
+  <small>Open Model Benchmarks, [Google DeepMind](https://deepmind.google/), San Francisco · May 6, 2026 · [[Slides]](/files/TERMS-Bench_DeepMind.pdf)</small>
   
 
 Academic Service
@@ -155,7 +155,7 @@ Academic Service
 
 Honors
 ======
-- [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) in AI/ML (2026).
+- [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) in AI/ML, Jump Trading (2026).
 - [Stanford Graduate Fellowship (SGF) in Sciences and Engineering](https://vpge.stanford.edu/fellowships-funding/sgf), Stanford University (2023)
 - [Phi Beta Kappa](https://www.college.columbia.edu/node/19775) at Columbia College Delta Chapters, Columbia University (2023)
 - Departmental Honors in Mathematics, Columbia University (2023)
