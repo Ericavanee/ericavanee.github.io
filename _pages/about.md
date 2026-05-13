@@ -60,7 +60,9 @@ Benchmarks & Open-Source Projects
     </small>
   </div>
 
+  <small>
   [[Website & Leaderboard]](https://terms-bench.github.io/) · [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf)
+  <small>
 
 * <em>OpenThoughts-Agent: Data Receipe for Agents</em><br>
   <small><em>Open-source · Benchmark · Stanford, [Daytona](https://www.daytona.io/), [Oumi](https://oumi.ai/), [Bespoke Labs](https://www.bespokelabs.ai/), and [Laude Institute](https://www.laude.org/) · 2026</em></small><br>
@@ -70,7 +72,9 @@ Benchmarks & Open-Source Projects
     </small>
   </div>
 
+  <small>
   [[Website & Leaderboard]](https://www.openthoughts.ai/blog/agent) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
+  <small>
 
 
 Scholarly Works
