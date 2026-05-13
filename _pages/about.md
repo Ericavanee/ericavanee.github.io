@@ -99,6 +99,9 @@ Invited Talks
 ======
 * <em>Learning When to Trust LLM Priors: Reliable Prediction with Statistical Guarantees</em><br>
   <small>Jump AI Symposium, Jump Trading, New York City · May 28, 2026</small>
+
+* <em>TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate</em><br>
+  <small>Open Model Benchmarks, Google DeepMind, San Francisco · May 6, 2026</small>
   
 
 Academic Service
