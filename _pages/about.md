@@ -83,7 +83,7 @@ Scholarly Works
   <small>
     <strong><u>Erica Zhang</u></strong>, Fangzhao Zhang, Aneesh Pappu, Batu El, Jose Blanchet, Suan Athey, Jiashuo Liu, James Zou<br>
     <em>arXiv Preprint (2026)</em><br>
-    [[PDF]](https://terms-bench.github.io/TERMS_Bench.pdf) · [[arXiv - Coming soon]](https://arxiv.org/) · [[Codes - Coming soon]](https://github.com/zou-group) · [[Leaderboard]](https://terms-bench.github.io/)
+    [[PDF]](https://arxiv.org/pdf/2605.13909) · [[arXiv]](https://arxiv.org/abs/2605.13909) · [[Codes - Coming soon]](https://github.com/zou-group) · [[Leaderboard]](https://terms-bench.github.io/)
   </small>
 * <em>Optimizer-Induced Mode Connectivity: From AdamW to Muon</em><br>
   <small>
