@@ -16,6 +16,8 @@ This past summer (2025), I interned as an Applied Scientist working on Agentic A
 
 News
 ======
+Excited to share that I will be giving a talk at [Google Ventures](https://www.gv.com/) <> [Google DeepMind](https://deepmind.google/), titled *Benchmarking and Evaluation for Semi-Verifiable Domains: A Case Study of Agentic Negotiation*, in San Francisco on May 20th!
+
 Check out out latest work: [TERMS-Bench](https://arxiv.org/pdf/2605.13909) and [leaderboard](https://terms-bench.github.io/)! TERMS-Bench introduces a new way to evaluate agentic capabilities in non- or semi-verifiable domains, where structure is loose and no native verifier exists: constructing the environment itself as the verifier. We focus on agentic negotiation, including commercial extensions such as stateful agentic procurement chains, and evaluate the most capable high-reasoning models from major providers as of May 2026.
 
 Excited to share that I received the [Jump Trading Fellowship](https://www.jumptrading.com/fellowship-program) in the AI/ML track (2026), supporting my research on reliable modern learning and agentic AI systems.
@@ -143,6 +145,9 @@ Invited Talks
 ======
 * <em>Learning When to Trust LLM Priors: Reliable Prediction with Statistical Guarantees</em><br>
   <small>Jump AI Symposium, [Jump Trading](https://www.jumptrading.com/), New York City · May 28, 2026</small>
+
+* <em>Benchmarking and Evaluation for Semi-Verifiable Domains: A Case Study of Agentic Negotiation</em><br>
+  <small>Frontier Syndicate, [Google Ventures](https://www.gv.com/), San Francisco · May 20, 2026</small>
 
 * <em>TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate</em><br>
   <small>Open Model Benchmarks, [Google DeepMind](https://deepmind.google/), San Francisco · May 6, 2026 · [[Slides]](/files/TERMS-Bench_DeepMind.pdf)</small>
