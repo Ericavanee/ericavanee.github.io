@@ -55,7 +55,7 @@ Selected Industry Projects
 Open-Source Projects
 ======
 * <em>TERMS-Bench: A Diagnostic Benchmark for LLM Negotiation Agents</em><br>
-  <small><em>Open-source · Evaluation benchmark · Stanford Engineering · 2026</em></small><br>
+  <small><em>Open-source · Evaluation benchmark · HAI <> Stanford Engineering · 2026</em></small><br>
   <div style="margin: 0.35em 0 0.35em 0;">
     <small>
       Creator; development and engineering lead.
