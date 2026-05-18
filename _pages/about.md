@@ -16,7 +16,7 @@ This past summer (2025), I interned as an Applied Scientist working on Agentic A
 
 News
 ======
-Excited to share that I will be giving a talk at [Google Ventures](https://www.gv.com/) <> [Google DeepMind](https://deepmind.google/), titled *Benchmarking and Evaluation for Semi-Verifiable Domains: A Case Study of Agentic Negotiation*, in San Francisco on May 20th!
+Excited to share that I will be giving a talk at [Google Ventures](https://www.gv.com/) <> [Google DeepMind](https://deepmind.google/) on benchmarking for verifier-hard domains at the Google Ventures headquarters in San Francisco on May 20th!
 
 Check out out latest work: [TERMS-Bench](https://arxiv.org/pdf/2605.13909) and [leaderboard](https://terms-bench.github.io/)! TERMS-Bench introduces a new way to evaluate agentic capabilities in non- or semi-verifiable domains, where structure is loose and no native verifier exists: constructing the environment itself as the verifier. We focus on agentic negotiation, including commercial extensions such as stateful agentic procurement chains, and evaluate the most capable high-reasoning models from major providers as of May 2026.
 
