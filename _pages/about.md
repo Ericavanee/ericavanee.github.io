@@ -97,11 +97,11 @@ Scholarly Works
   <small>
     Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Kumar Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, ..., <strong><u>Erica Zhang</u></strong>, ..., Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt <br>
     <em>arXiv Preprint (2026)</em><br>
-    [[PDF - Coming soon]]() · [[arXiv - Coming soon]](https://arxiv.org/) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
+    [[PDF]](https://arxiv.org/pdf/2606.24855) · [[arXiv]](https://arxiv.org/abs/2606.24855) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
   </small>
 * <em>Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration</em><br>
   <small>
-    <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagan<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
+    <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagasn<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
     <em>arXiv Preprint (2026)</em><br>
     [[PDF]](https://arxiv.org/pdf/2601.21410) · [[arXiv]](https://arxiv.org/abs/2601.21410) · [[Codes]](https://github.com/pilancilab/statsformer)
   </small>
