@@ -11,7 +11,7 @@ Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research in the 
 
 As part of my Ph.D., I completed a co-enrolled M.S. degree in Electrical Engineering, specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
-This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. This summer (2026), I worked at [Two Sigma](https://www.twosigma.com/) as a Quantitative Research Intern working on post-training for alpha modeling at the New York headquarters.
+This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. This summer (2026), I interned at [Two Sigma](https://www.twosigma.com/) as a Quantitative Researcher working on post-training for alpha modeling at the New York headquarters.
 
 
 News
@@ -27,11 +27,11 @@ Check out our latest work: [Statsformer](https://arxiv.org/abs/2601.21410)! *Sta
 
 Research
 ======
-Beginning as a theorist and statistician, I draw on classical tools from optimization and probability to tackle modern challenges in machine learning, particularly in large-scale, high-dimensional settings where sample complexity and statistical rigor matter most.
+I am a researcher building at the intersection of foundation models, agentic systems, and markets. I began as a theorist and statistician, and still draw heavily on optimization, probability, and statistical learning, but increasingly my work asks a broader question: what structures do intelligent systems need in order to learn, act, and interact reliably in messy real-world environments?
 
-Currently, my research bridges foundation models and agentic systems with statistical rigor and safety. I develop LLM-integrated learning and decision-making agentic systems with formal guarantees that mitigate failure modes such as hallucination. My goal is to move beyond heuristic LLM augmentation toward systems that are robust, interpretable, and provably safe.
+My recent work spans post-training under noisy learning signals, verifier-based evaluation for semi- and non-verifiable domains, LLM-integrated learning with formal guarantees, and multi-agent systems for strategic and economic interaction. Across these settings, I am especially interested in long-horizon, strategic domains such as markets, where the clean verification story of mathematics and coding begins to break down, and where progress may require reasoning from first principles about the structures beyond engineering more harnesses.
 
-Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world <a href="#ref1">[1]</a>. As I continue my journey as a researcher, I hope to uncover more of these hidden structures within learning systems through the lenses of optimization and statistical theory and push the frontiers of what we can rigorously understand and design in machine learning.
+Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world <a href="#ref1">[1]</a>. What I find beautiful in this view is that it captures both the power and the limit of formal languages such as mathematics: they let us make hidden structure explicit, but they can only take us as far as the framework itself allows. Some of the questions I find most interesting begin at that boundary: when progress requires not just solving within a framework, but building a better one.
 
 Feel free to reach out if you're interested in my work 🙂
 
