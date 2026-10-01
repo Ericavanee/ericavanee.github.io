@@ -11,7 +11,7 @@ Hello :\) I am Erica, currently a Ph.D. candidate in Operations Research in the 
 
 As part of my Ph.D., I completed a co-enrolled M.S. degree in Electrical Engineering, specializing in Control & Optimization. Prior to Stanford, I earned a dual B.A. in Mathematics and Statistics from [Columbia College, Columbia University](https://www.college.columbia.edu/), graduating *summa cum laude* with honors from both departments.
 
-This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. *I am excited to share that I will be joining [Two Sigma](https://www.twosigma.com/) this summer (2026) as a Quantitative Research Intern working on post-training for alpha modeling at the New York headquarters.*
+This past summer (2025), I interned as an Applied Scientist working on Agentic AI with [Amazon Science](https://www.amazon.science/) at the Bellevue office. This summer (2026), I worked at [Two Sigma](https://www.twosigma.com/) as a Quantitative Research Intern working on post-training for alpha modeling at the New York headquarters.
 
 
 News
@@ -87,10 +87,16 @@ Scholarly Works
     <em>arXiv Preprint (2026)</em><br>
     [[PDF]](https://arxiv.org/pdf/2605.13909) · [[arXiv]](https://arxiv.org/abs/2605.13909) · [[Codes - Coming soon]](https://github.com/zou-group) · [[Leaderboard]](https://terms-bench.github.io/)
   </small>
+* <em>Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration</em><br>
+<small>
+  <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagasn<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
+  <em>Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</em><br>
+  [[PDF]](https://arxiv.org/pdf/2601.21410) · [[arXiv]](https://arxiv.org/abs/2601.21410) · [[Codes]](https://github.com/pilancilab/statsformer)
+</small>
 * <em>Optimizer-Induced Mode Connectivity: From AdamW to Muon</em><br>
   <small>
     Fangzhao Zhang<sup>*</sup>, Sungyoon Kim<sup>*</sup>, <strong><u>Erica Zhang</u></strong>, Yiqi Jiang, Mert Pilanci<br>
-    <em>arXiv Preprint (2026)</em><br>
+    <em>Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</em><br>
     [[PDF]](https://arxiv.org/pdf/2605.09991) · [[arXiv]](https://arxiv.org/abs/2605.09991) · [[Codes]](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
   </small>
 * <em>OpenThoughts-Agent: Data Recipes for Agentic Models</em><br>
@@ -98,12 +104,6 @@ Scholarly Works
     Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Kumar Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, ..., <strong><u>Erica Zhang</u></strong>, ..., Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt <br>
     <em>arXiv Preprint (2026)</em><br>
     [[PDF]](https://arxiv.org/pdf/2606.24855) · [[arXiv]](https://arxiv.org/abs/2606.24855) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
-  </small>
-* <em>Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration</em><br>
-  <small>
-    <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagasn<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
-    <em>arXiv Preprint (2026)</em><br>
-    [[PDF]](https://arxiv.org/pdf/2601.21410) · [[arXiv]](https://arxiv.org/abs/2601.21410) · [[Codes]](https://github.com/pilancilab/statsformer)
   </small>
 * <em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
   <small>
