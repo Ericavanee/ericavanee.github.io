@@ -16,7 +16,7 @@ This past summer (2025), I interned as an Applied Scientist working on Agentic A
 
 News
 ======
-Excited to share that I will be giving a talk at [Google Ventures](https://www.gv.com/) on building verifiers for agentic markets at the Google Ventures headquarters in San Francisco on Oct. 1st!
+Excited to share that I will be giving a talk at [Google Ventures](https://www.gv.com/) on building verifiers for agentic markets at the Google Ventures headquarters in San Francisco on Oct. 1st, 2026!
 
 Check out out latest work: [TERMS-Bench](https://arxiv.org/pdf/2605.13909) and [leaderboard](https://terms-bench.github.io/)! TERMS-Bench introduces a new way to evaluate agentic capabilities in non- or semi-verifiable domains, where structure is loose and no native verifier exists: constructing the environment itself as the verifier. We focus on agentic negotiation, including commercial extensions such as stateful agentic procurement chains, and evaluate the most capable high-reasoning models from major providers as of May 2026.
 
@@ -27,9 +27,9 @@ Check out our latest work: [Statsformer](https://arxiv.org/abs/2601.21410)! *Sta
 
 Research
 ======
-I am a researcher building at the intersection of foundation models, agentic systems, and markets. I began as a theorist and statistician, and still draw heavily on optimization, probability, and statistical learning, but increasingly my work asks a broader question: what structures do intelligent systems need in order to learn, act, and interact reliably in messy real-world environments?
+I am a researcher building at the intersection of foundation models, agentic systems, and markets. I began as a theorist and statistician, and still draw heavily on optimization, probability, and statistical learning, but increasingly my work centers on a broader question: what structures do intelligent systems need in order to learn, act, and interact reliably in messy real-world environments?
 
-My recent work spans post-training under noisy learning signals, verifier-based evaluation for semi- and non-verifiable domains, LLM-integrated learning with formal guarantees, and multi-agent systems for strategic and economic interaction. Across these settings, I am especially interested in long-horizon, strategic domains such as markets, where the clean verification story of mathematics and coding begins to break down, and where progress may require reasoning from first principles about the structures beyond engineering more harnesses.
+My recent work spans post-training under noisy learning signals, verifier-based evaluation for semi- and non-verifiable domains, LLM-integrated learning with formal guarantees, and multi-agent systems for strategic and economic interaction. Across these settings, I am especially interested in long-horizon, strategic domains, where the clean verification story of mathematics and coding breaks down, and where progress may require reasoning from first principles about the structures beyond engineering more harnesses.
 
 Philosophically, I’m inspired by mathematician [Hans Hahn's](https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)) view of mathematics as a precise, elegantly constructed conceptual framework: one that enables us to abstract information and perform tautological transformations to uncover fundamental laws governing our world <a href="#ref1">[1]</a>. What I find beautiful in this view is that it captures both the power and the limit of formal languages such as mathematics: they let us make hidden structure explicit, but they can only take us as far as the framework itself allows. Some of the questions I find most interesting begin at that boundary: when progress requires not just solving within a framework, but building a better one.
 
