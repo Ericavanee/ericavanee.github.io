@@ -87,6 +87,12 @@ Scholarly Works
     <em>arXiv Preprint (2026)</em><br>
     [[PDF]](https://arxiv.org/pdf/2605.13909) · [[arXiv]](https://arxiv.org/abs/2605.13909) · [[Codes - Coming soon]](https://github.com/zou-group) · [[Leaderboard]](https://terms-bench.github.io/)
   </small>
+* <em>OpenThoughts-Agent: Data Recipes for Agentic Models</em><br>
+  <small>
+    Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Kumar Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, ..., <strong><u>Erica Zhang</u></strong>, ..., Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt <br>
+    <em>arXiv Preprint (2026)</em><br>
+    [[PDF]](https://arxiv.org/pdf/2606.24855) · [[arXiv]](https://arxiv.org/abs/2606.24855) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
+  </small>
 * <em>Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration</em><br>
 <small>
   <strong><u>Erica Zhang</u></strong><sup>*</sup>, Naomi Sagasn<sup>*</sup>, Danny Tse, Fangzhao Zhang, Mert Pilanci, Jose Blanchet<br>
@@ -98,12 +104,6 @@ Scholarly Works
     Fangzhao Zhang<sup>*</sup>, Sungyoon Kim<sup>*</sup>, <strong><u>Erica Zhang</u></strong>, Yiqi Jiang, Mert Pilanci<br>
     <em>Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</em><br>
     [[PDF]](https://arxiv.org/pdf/2605.09991) · [[arXiv]](https://arxiv.org/abs/2605.09991) · [[Codes]](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
-  </small>
-* <em>OpenThoughts-Agent: Data Recipes for Agentic Models</em><br>
-  <small>
-    Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Kumar Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, ..., <strong><u>Erica Zhang</u></strong>, ..., Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt <br>
-    <em>arXiv Preprint (2026)</em><br>
-    [[PDF]](https://arxiv.org/pdf/2606.24855) · [[arXiv]](https://arxiv.org/abs/2606.24855) · [[Codes]](https://github.com/open-thoughts/OpenThoughts-Agent)
   </small>
 * <em>Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes</em><br>
   <small>
