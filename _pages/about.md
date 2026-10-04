@@ -143,6 +143,8 @@ Scholarly Works
 
 Invited Talks
 ======
+* <em>TERMS-Bench: Building Verifiers for Agentic Markets</em><br>
+  <small>Private Research Night, [Google Ventures](https://www.gv.com/), San Francisco · Oct. 1st, 2026</small>
 * <em>Learning When to Trust LLM Priors: Reliable Prediction with Statistical Guarantees</em><br>
   <small>Jump AI Symposium, [Jump Trading](https://www.jumptrading.com/), New York City · May 28, 2026</small>
 
