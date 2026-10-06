@@ -16,7 +16,7 @@ This past summer (2025), I interned as an Applied Scientist working on Agentic A
 
 News
 ======
-I will be back at [Google Ventures](https://www.gv.com/) giving a talk on building verifiers for agentic markets at the San Francisco headquarters on Oct. 1st, 2026, where I will also be sharing what we are building on next!
+I will be back at [Google Ventures](https://www.gv.com/) giving a talk on building verifiers for agentic markets at the San Francisco headquarters on Oct. 1st, 2026!
 
 Check out out latest work: [TERMS-Bench](https://arxiv.org/pdf/2605.13909) and [leaderboard](https://terms-bench.github.io/)! TERMS-Bench introduces a new way to evaluate agentic capabilities in non- or semi-verifiable domains, where structure is loose and no native verifier exists: constructing the environment itself as the verifier. We focus on agentic negotiation, including commercial extensions such as stateful agentic procurement chains, and evaluate the most capable high-reasoning models from major providers as of May 2026.
 
